@@ -1,5 +1,3 @@
 Meu primeiro sistema no GIT
-Meu primeiro sistema no GIT
 
-
-Alteração no readme para descrever melhor meu sistema.
+Alterando o Readme
